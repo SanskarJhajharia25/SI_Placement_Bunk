@@ -3,6 +3,7 @@ Hello peeps :)
 Over the last few days, I have tried to address the queries of a number of you over what and how to prepare for the SI season. So I have decided to compile all of that at a single place. This is the repo I would try to use for that. I would keep putting up whatever good / necessary resources I find for the same.
 One disclaimer, I am putting up things what I find are important. It might vary from person to person so please don't hold me responsible. Would love to help you otherwise too or if you find things that are impossible that I mention here.
 
+Please feel free to add your valuable feedback about the same either here itself or reach out to me personally.
 Also, it might take some time to upload things as I have lost track over the fast few months.. so motivate karte rehna agar lage ki mai slack kar raha :(
 
 
